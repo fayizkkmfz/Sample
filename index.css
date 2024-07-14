@@ -1,3 +1,13 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
 .heading1{
+    
     color: blue;
+}
+.division{
+    width: 300px;
+    height: 260px;
+    background-color: brown;
 }
